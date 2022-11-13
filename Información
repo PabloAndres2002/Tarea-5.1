@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Informacion</title>
+</head>
+<div class="color">
+<body>
+    <div class="inf">
+    <h1>¿Algo sobre de mi?</h1>
+</div>
+    <ul>
+        <li>
+            <p>Mi nombre es Pablo Piña tengo 20 años, naci en Quito el 21 de julio del 2002 y ahora vivo en cuenca, me gradue colegio Tecnico Salesiano en la carrera Mecanizado y Contrucsiones Metalicas, Ahora estoy estudiando para ser un desarollador de paginas web.
+            Y en el futuro dar clases sobre paginas web abirme mi propio negocio y poder enseñar a toda la gente lo hermoso que es esta materia y lo que podemos hacer con dedicacion y mucho esfuerzo. </p>
+     
+        </li>
+        <img src="./assets/ccs/images/milling-cutters-gc0f9472cb_1280.jpg" alt="Fresas" width="250"> <img src="./assets/ccs/images/code-g3a71230fb_1280.jpg" alt="pagina web" width="290">
+    </ul>
+</body>
+</div>
+</html>
